@@ -8,10 +8,15 @@ di 140 caratteri, chiamati post. Gli utenti possono ‘seguire’ i post di altr
 Parte 1
 Si richiede di progettare, realizzare e documentare il tipo di dato Post per rappresentare un post.
 Un post è descritto da un insieme di informazioni:
+
 • id: identificatore univoco del post
+
 • author: utente della rete sociale che ha scritto il post
+
 • text: testo (massimo 140 caratteri) del post
+
 • timestamp: data e ora di invio del post
+
 Si definisca la specifica completa del tipo di dato Post, introducendo i relativi metodi e fornendo le
 motivazioni delle scelte effettuate. Possono essere aggiunte altre informazioni motivando
 opportunamente la scelta.
